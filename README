@@ -1,0 +1,4 @@
+# P4 & Mininet Dev Env
+
+Just a handy Docker image that builds the latest version of the behavioral model and p4 compiler, along with having mininet pre-installed
+Based on the p4lang/tutorials build script available 
